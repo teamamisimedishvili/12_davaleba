@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.div1 {
+    background-color: #FAF4EF;
+    
+    height: 259px;
+    width: 220px;
+   border-bottom-left-radius: 50px;
+    margin-left: 555px;
+    margin-top: 230px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+img {
+    padding-left: 20px;
+}
